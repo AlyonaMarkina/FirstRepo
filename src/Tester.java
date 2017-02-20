@@ -20,7 +20,7 @@ public class Tester {
             }
             else{//if grade isn`t from 0 to 100
                 i--;
-                System.out.println("¬ведене значенн€ некоректне, будь ласка введ≥ть заново");
+                System.out.println("¬ведене  будь ласка введ≥ть заново");
             }
         }
 
