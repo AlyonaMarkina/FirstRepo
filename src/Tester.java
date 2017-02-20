@@ -8,7 +8,7 @@ public class Tester {
             int kilkist;//quantity of grades
             int[] mark;//array of grades
 
-        System.out.print("Enter quantity of grades: ");
+        System.out.print("Enter : ");
         kilkist = DataInput.getInt("Enter quantity");
         mark = new int[kilkist];//set size of array
         System.out.println("Enter grade ");
